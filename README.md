@@ -8,10 +8,10 @@ You can also contact me through:
 - [chaujt1@uci.edu](jonathan.chau06ios@gmail.com)
 
 Check out some of my favorite projects:
-- [HotTake.gg] (https://github.com/jchau06/hottake-web)
-- [HotTake (Mobile Version)] (https://github.com/jchau06/hottake-mobile)
-- [Shelterfy] (https://github.com/jchau06/shelterfy)
-- [Deduction] (https://github.com/jchau06/Deduction)
+- [HotTake.gg](https://github.com/jchau06/hottake-web)
+- [HotTake (Mobile Version)](https://github.com/jchau06/hottake-mobile)
+- [Shelterfy](https://github.com/jchau06/shelterfy)
+- [Deduction](https://github.com/jchau06/Deduction)
 
 <!--
 **jchau06/jchau06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
