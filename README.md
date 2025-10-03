@@ -1,12 +1,17 @@
 ## Hello there! 👋
 
-My name is Jonathan Chau (he/him) and I'm a first year majoring in Computer Science at UCI!  
+My name is Jonathan Chau (he/him) and I'm a second year majoring in Computer Science at UCI!  
 Check out my [LinkedIn](https://www.linkedin.com/in/jonathan-chau-502553332/) over here!  
 
 You can also contact me through:
 - [jonathan.chau06ios@gmail.com](jonathan.chau06ios@gmail.com)
 - [chaujt1@uci.edu](jonathan.chau06ios@gmail.com)
 
+Check out some of my favorite projects:
+- [HotTake.gg] (https://github.com/jchau06/hottake-web)
+- [HotTake (Mobile Version)] (https://github.com/jchau06/hottake-mobile)
+- [Shelterfy] (https://github.com/jchau06/shelterfy)
+- [Deduction] (https://github.com/jchau06/Deduction)
 
 <!--
 **jchau06/jchau06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
